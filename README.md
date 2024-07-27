@@ -1,1 +1,1 @@
-# Custom-compiler
+TinyCompiler is a basic compiler project designed to help beginners understand the fundamentals of compiler construction. This project aims to demonstrate the core concepts involved in translating high-level code into machine code, including lexical analysis, syntax parsing, semantic analysis, optimization, and code generation.
